@@ -1,10 +1,10 @@
 - 👋 Hi, I’m Mario
 - 👀 I’m interested in cyber security and mobile app development
-- 🌱 I’m currently learning Java
+- 🌱 I’m currently learning how to use github total newbie
 - 💞️ I’m looking to collaborate on web development projects
-- 📫 How to reach me on instagram @votregarconmario
+- 📫 How to reach me on instagram @yourboymario__
 - 😄 Pronouns: ...
-- ⚡ Fun fact: I love cooking and when in the kitchen call me "Chef Mario"
+- ⚡ Fun fact: Don't think there's any
 
 <!---
 Mario295/Mario295 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
